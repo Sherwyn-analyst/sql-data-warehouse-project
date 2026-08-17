@@ -33,7 +33,7 @@ The project follows a layered data warehouse structure:
 - **Silver layer:** Cleans, standardises, and integrates the source data.
 - **Gold layer:** Contains business-ready tables and views for analysis and reporting.
 
-![Data warehouse architecture](docs/data_architecture.png)
+![Data warehouse architecture](C:\Users\avput\OneDrive\Documents\sql-data-warehouse-project-main\docs/data_architecture.png)
 
 ## Data Sources
 
