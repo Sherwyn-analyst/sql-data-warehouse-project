@@ -1,0 +1,38 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# SQL Server local files
+*.mdf
+*.ndf
+*.ldf
+*.bak
+*.trn
+
+# Database exports and temporary files
+*.dump
+*.sqlite
+*.db
+*.tmp
+*.temp
+
+# Local configuration and credentials
+.env
+.env.*
+*.config
+secrets/
+credentials/
+
+# Local IDE and editor files
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Personal or local data
+local_data/
+private_data/
